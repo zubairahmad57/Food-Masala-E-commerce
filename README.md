@@ -1,8 +1,8 @@
-FoodMasala - E-commerce Food Website
+FoodMasala - E-commerce Food Website:
 <br>
-FoodMasala is an online platform designed to sell a wide variety of food products. 
+*FoodMasala is an online platform designed to sell a wide variety of food products. 
 <br>
-Our website is mobile-friendly, ensuring a seamless shopping experience across all devices.
+*Our website is mobile-friendly, ensuring a seamless shopping experience across all devices.
 <br>
 
 Technologies Used.
